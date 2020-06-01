@@ -1,4 +1,4 @@
-Building Single Page Web Apps with AngularJS 
+# Building Single Page Web Apps with AngularJS 
 
 # `angular-seed` — the seed for AngularJS apps
 
